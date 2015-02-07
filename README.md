@@ -1,2 +1,2 @@
 # bestdress
-We are trying to create an application wich can help choose your perfect dress/style/color.
+We are trying to create an application which can help to choose your perfect dress/style/colour.
